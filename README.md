@@ -19,6 +19,8 @@ To run the lua interactive shell, enter:
   > 
 ```
 
+Type ctrl-C to quit the interactive lua shell, `exit` to quit using the docker container.
+
 ##Tutorials
 
   - [lua-users.org](http://lua-users.org/wiki/TutorialDirectory)
