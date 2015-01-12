@@ -11,6 +11,14 @@ This repository was created to get up and running with lua quickly using [Docker
 
 A shell should open automatically! Type `lua -v` to ensure lua was installed on the docker image properly.
 
+To run the lua interactive shell, enter:
+
+```
+  $ lua
+  Lua 5.2.3   Copyright (C) 1994-2013 Lua.org, PUC-Rio
+  > 
+```
+
 ##Tutorials
 
   - [lua-users.org](http://lua-users.org/wiki/TutorialDirectory)
