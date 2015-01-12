@@ -14,7 +14,7 @@ A shell should open automatically! Type `lua -v` to ensure lua was installed on 
 To run the lua interactive shell, enter:
 
 ```
-  $ lua
+  [root@aa6af4a98f10 /]# lua
   Lua 5.2.3   Copyright (C) 1994-2013 Lua.org, PUC-Rio
   > 
 ```
